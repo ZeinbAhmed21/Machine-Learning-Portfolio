@@ -47,7 +47,7 @@ The portfolio covers:
 
 ---
 
-# 👤 Authors
+# 🤝 Contributors
 - Zeinab Ahmed
 - Ibrahim Hamdy
 
